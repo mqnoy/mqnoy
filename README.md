@@ -5,7 +5,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mqnoy&hide_progress=true)
 
 
-<img src="https://raw.githubusercontent.com/mqnoy/mqnoy/output/snake.svg" alt="Snake animation" />
 
 
 
